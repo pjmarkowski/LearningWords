@@ -7,9 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * Created by Piotr on 28.02.2017.
- */
 public class DataBase {
     private Map<String, String> dictionary = new HashMap<>();
 
